@@ -1,5 +1,5 @@
 html {
-    background-color: #000;
+    background-color: #FFFFFF;
 }
 
 body {
@@ -36,7 +36,7 @@ img {
 .item {
     /* min-width: 400px;
     max-width: 600px; */
-    width: 600px;
+    max-width: 400;
     padding: 10px;
     margin: auto;
     text-align: center;
@@ -45,5 +45,5 @@ img {
 }
 
 .section {
-    padding: 30px;
+    padding: 10px;
 }
